@@ -11,7 +11,7 @@ public abstract class Abstract1 {
 
 	// Non-abstract method
 	public void a() {
-		System.out.println("non-abstract method");
+		
 		System.out.println("non-abstract method");
 		System.out.println("Hello SDET Engineer");
 	}
