@@ -13,6 +13,7 @@ public class Abstract2 extends Abstract1 {
 		Abstract2 ab2 = new Abstract2();
 		ab2.eat();
 		ab2.a();
+		System.out.println("Hello Shubham Jogdand");
 
 	}
 
